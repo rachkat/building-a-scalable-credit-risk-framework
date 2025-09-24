@@ -94,3 +94,26 @@ It integrates:
 
 ## Repository Structure  
 
+credit-risk-framework/
+├─ Building-A-Scalable-Credit-Risk-Framework.pdf # Full written report
+├─ README.md
+└─ LICENSE
+
+
+---
+
+## License  
+
+Released under the **MIT License**. See [LICENSE](./LICENSE).  
+
+---
+
+## Tags  
+
+`credit-risk` `predictive-modeling` `crisp-dm` `k-nn` `logistic-regression`  
+`decision-trees` `loan-default` `machine-learning` `r` `sql` `powerbi`  
+`ethics` `fair-lending` `data-science` `portfolio`  
+
+---
+
+

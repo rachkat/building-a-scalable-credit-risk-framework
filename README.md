@@ -1,19 +1,30 @@
 # Building a Scalable Credit Risk Framework  
 
-![Made with R](https://img.shields.io/badge/Made%20with-R-276DC3?logo=r&logoColor=white&style=flat-square) 
-![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square) 
-![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)  
+![Made with R](https://img.shields.io/badge/Made%20with-R-blue?logo=r) 
+![Made with SQL](https://img.shields.io/badge/Made%20with-SQL-lightgrey?logo=databricks) 
+![Made with PowerBI](https://img.shields.io/badge/Made%20with-PowerBI-yellow?logo=powerbi) 
+![License: MIT](https://img.shields.io/badge/License-MIT-green) 
+![Status: Finished](https://img.shields.io/badge/Status-Finished-brightgreen)
 
 ---
 
 ## Executive Summary  
 
-This project delivers a **credit risk modeling framework** for GE’s credit team using the **CRISP-DM methodology**.  
-It integrates:  
-- **Business Understanding & Ethics** → Identifying inefficiencies in Excel-based risk evaluation and removing sensitive features (gender, race, marital status) to ensure fairness.  
-- **Pilot Modeling** → Implemented a **k-Nearest Neighbor (k-NN)** classifier to predict loan default risk.  
-- **Evaluation & Reporting** → Compared k-NN against logistic regression and decision trees, balancing accuracy, transparency, and scalability.  
-- **Deployment Strategy** → Proposed integration with SQL + BI dashboards for real-time risk scoring and portfolio monitoring.  
+## Executive Summary  
+
+This project develops a **scalable credit risk framework** for GE’s credit team, following the **CRISP-DM methodology**. It consolidates three milestones into a cohesive solution:
+
+1. **Business Case & Ethics Review** – Assessed Excel-based credit evaluation, identified risks of bias in sensitive fields (gender, race, marital status), and proposed an ethical strategy aligned with fair lending laws.  
+2. **Pilot Predictive Model (k-NN)** – Built in R to classify loan applicants using historical data; tested with Age and Na/K ratio features to validate feasibility.  
+3. **Final Deployment Plan** – Outlined integration with SQL + Power BI for scalability, real-time dashboards, and automation to reduce manual workload.  
+
+**Business Impact:**  
+- Potential to reduce loan default losses by **15%+ annually**.  
+- Automates applicant vetting, cutting turnaround time by **30–40%**.  
+- Strengthens compliance by excluding sensitive variables and embedding continuous monitoring.  
+
+This project demonstrates strengths in **predictive modeling (k-NN, logistic regression, decision trees)**, **data preparation in R**, and **business translation**, while highlighting the ethical considerations of deploying AI in financial services.  
+
 
 📄 **Full report PDF** → [Building-A-Scalable-Credit-Risk-Framework.pdf](./building-scalable-credit-risk-framework.pdf)  
 

@@ -10,9 +10,7 @@
 
 ## Executive Summary  
 
-## Executive Summary  
-
-This project develops a **scalable credit risk framework** for GE’s credit team, following the **CRISP-DM methodology**. It consolidates three milestones into a cohesive solution:
+In this project, I develop a **scalable credit risk framework** for GE’s credit team, following the **CRISP-DM methodology**. It consolidates three milestones into a cohesive solution:
 
 1. **Business Case & Ethics Review** – Assessed Excel-based credit evaluation, identified risks of bias in sensitive fields (gender, race, marital status), and proposed an ethical strategy aligned with fair lending laws.  
 2. **Pilot Predictive Model (k-NN)** – Built in R to classify loan applicants using historical data; tested with Age and Na/K ratio features to validate feasibility.  
